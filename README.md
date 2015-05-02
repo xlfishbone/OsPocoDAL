@@ -29,6 +29,7 @@ TODO: Write history
 ## Credits
 
 Craig McSweeney
+
 Brent Feathers
 
 ## License
